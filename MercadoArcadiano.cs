@@ -1,6 +1,6 @@
 namespace ComercianteDeArcadia
 {
-    public class Program
+    public class MercadoArcadiano
     {
         public static void Main(string[] args)
         {
